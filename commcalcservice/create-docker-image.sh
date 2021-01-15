@@ -1,0 +1,1 @@
+docker build -t stevenckwong/cardgame-commcalcservice:1.0.0 .

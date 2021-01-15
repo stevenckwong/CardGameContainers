@@ -1,0 +1,1 @@
+docker build -t stevenckwong/cardgame-app:1.0.0 .
