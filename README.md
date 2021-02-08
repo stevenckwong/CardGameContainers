@@ -4,7 +4,7 @@ This is a personal pet exploration project running my Cardgame Java Web Applicat
 
 ## Instructions
 Clone the repository.
-Run the create containers script
+Run docker-compose up
 Access the application at http://localhost:8888/CardGame
 
 ## Architecture

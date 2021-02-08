@@ -1,0 +1,13 @@
+version: "3.90"
+services:
+  cardgameapp:
+    image: "stevenckwong/cardgame-app:1.0.0"
+    ports:
+      - "8888:8080"
+  commcalcservice:
+    image: "stevenckwong/cardgame-commcalcservice:1.0.0"
+  lookupservice:
+    image: "stevenckwong/cardgame-lookupservice:1.0.0"
+  mongo:
+    image: "mongo:4.0"
+  
